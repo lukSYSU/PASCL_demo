@@ -76,20 +76,6 @@ When opening notebooks select `File > Jupytext > Pair Notebook with light Script
 └── .pre-commit-config.yaml <- Configuration of pre-commit git hooks.
 ```
 
-## License
-
-This project is release under the 
-[BSD-3-Clause license](https://github.com/Helmholtz-AI-Energy/TBBRDet/blob/main/LICENSE)
-
-## Acknowledgement
-
-This work is supported by the Helmholtz Association Initiative and Networking Fund under the Helmholtz AI platform grant and the HAICORE@KIT partition,
-the Bundesministerium für Bildung und Forschung (BMBF) under the grant 05H21PDKBA,
-and the L’Institut National de Physique Nucléaire et de Physique des Particules (IN2P3) du CNRS (France)
-and the French Agence Nationale de la Recherche (ANR) under grant ANR-21-CE31-0009 (project FIDDLE)
-and the Seed Money programme of Eucor - The European Campus.
-We wish to also thank Julián Garcı́a Pardiñas and Isabelle Ripp-Baudot for the fruitful discussions.
-
 ## Citation
 
 If you use this work in your research, please cite this project.
