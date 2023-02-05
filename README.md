@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github.com/Helmholtz-AI-Energy/BaumBauen/blob/main/logos/baumbauen_logo.png" height="120px">
 </div>
@@ -10,6 +11,14 @@ This is the code for the paper [Learning tree structures from leaves for particl
 The dataset used in the study is [available on Zenodo](https://doi.org/10.5281/zenodo.6983258).
 
 
+=======
+
+
+This repository is created to (1) reproduce the experiments from this paper ([link](https://arxiv.org/abs/2208.14924),[code](https://github.com/Helmholtz-AI-Energy/BaumBauen)); (2) build enhanced model to enhance the effectiveness. 
+
+The dataset used in the study is [available on Zenodo](https://doi.org/10.5281/zenodo.6983258).
+
+>>>>>>> first commit
 ## Installation
 
 In order to set up the necessary environment:
@@ -76,6 +85,11 @@ When opening notebooks select `File > Jupytext > Pair Notebook with light Script
 └── .pre-commit-config.yaml <- Configuration of pre-commit git hooks.
 ```
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+>>>>>>> first commit
 ## Citation
 
 If you use this work in your research, please cite this project.
