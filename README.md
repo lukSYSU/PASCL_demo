@@ -1,11 +1,9 @@
-=======
-
 
 This repository is created to (1) reproduce the experiments from this paper ([link](https://arxiv.org/abs/2208.14924),[code](https://github.com/Helmholtz-AI-Energy/BaumBauen)); (2) build enhanced model to enhance the effectiveness. 
 
 The dataset used in the study is [available on Zenodo](https://doi.org/10.5281/zenodo.6983258).
 
->>>>>>> first commit
+
 ## Installation
 
 In order to set up the necessary environment:
