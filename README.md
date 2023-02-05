@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<div align="center">
-  <img src="https://github.com/Helmholtz-AI-Energy/BaumBauen/blob/main/logos/baumbauen_logo.png" height="120px">
-</div>
-
----
-> This is where we really bauen the Baums
-
 This is the code for the paper [Learning tree structures from leaves for particle decay reconstruction](https://doi.org/10.1088/2632-2153/ac8de0).
 
 The dataset used in the study is [available on Zenodo](https://doi.org/10.5281/zenodo.6983258).
@@ -85,9 +77,6 @@ When opening notebooks select `File > Jupytext > Pair Notebook with light Script
 └── .pre-commit-config.yaml <- Configuration of pre-commit git hooks.
 ```
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
 >>>>>>> first commit
 ## Citation
