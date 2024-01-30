@@ -1,1 +1,1 @@
-Code implement for PASCL.
+Code implementation of PASCL.
